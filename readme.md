@@ -1,4 +1,5 @@
 <p align="center">
+Modified by [wildfirebill](https://github.com/wildfirebill)
 	<img width="763" src="https://cdn.rawgit.com/aharris88/awesome-cli-apps/master/media/banner.png" alt="awesome cli apps">
 </p>
 
